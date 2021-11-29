@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\TC´s\TC4\TC4\bin\Debug\TC4.exe.config
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\TC´s\TC4\TC4\bin\Debug\TC4.exe
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\TC´s\TC4\TC4\bin\Debug\TC4.pdb
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\TC´s\TC4\TC4\obj\Debug\TC4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\TC´s\TC4\TC4\obj\Debug\TC4.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\TC´s\TC4\TC4\obj\Debug\TC4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\TC´s\TC4\TC4\obj\Debug\TC4.exe
+C:\Users\user\Desktop\UPN\ESTRUCTURA DE DATOS\TC´s\TC4\TC4\obj\Debug\TC4.pdb
